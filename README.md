@@ -2,16 +2,16 @@
 
 ## Como Rodar o Projeto
 
-### Passo a Passo
-
-#### 1. Clonar o Repositório
+#Pré-requisitos
+Antes de começar, certifique-se de ter instalado:
+ -Node.js: Download Node.js
+ -Vue CLI: Instale com o comando:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-
+npm install -g @vue/cli
 ```
 
-### 2. Configurar e Rodar o Backend
+### Passo a Passo
+### 1. Configurar e Rodar o Backend
 Navegue até a pasta backend:
 ```bash
 cd backend
@@ -27,7 +27,7 @@ Inicie o servidor:
 node app.js
 ```
 
-### 3. Configurar e Rodar o Frontend
+### 2. Configurar e Rodar o Frontend
 Navegue até a pasta frontend:
 ```bash
 cd frontend
