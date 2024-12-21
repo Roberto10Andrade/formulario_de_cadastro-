@@ -11,7 +11,7 @@ Antes de começar, certifique-se de ter instalado:
 -**Vue CLI**: Instale com o comando:
 ```bash
 npm install -g @vue/cli
-````
+
 
 ### Passo a Passo
 ### 1. Configurar e Rodar o Backend
