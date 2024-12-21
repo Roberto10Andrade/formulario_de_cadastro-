@@ -24,13 +24,13 @@ npm install
 
 Inicie o servidor:
 ```bash
-node server.js
+node app.js
 ```
 
 ### 3. Configurar e Rodar o Frontend
 Navegue até a pasta frontend:
 ```bash
-cd ../frontend
+cd frontend
 ```
 
 Instale as dependências:
