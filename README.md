@@ -7,11 +7,11 @@
 
 Antes de começar, certifique-se de ter instalado:
 
-- **Node.js**: [Download Node.js](https://nodejs.org)
-- **Vue CLI**: Instale com o comando:
-  ```bash
-  npm install -g @vue/cli
-  ````
+**Node.js**: [Download Node.js](https://nodejs.org)
+**Vue CLI**: Instale com o comando:
+```bash
+npm install -g @vue/cli
+````
 
 ### Passo a Passo
 ### 1. Configurar e Rodar o Backend
